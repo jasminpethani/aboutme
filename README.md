@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasmin Pethani</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
-<img src="https://dribbble.com/shots/4649464-Video-Call/attachments/10515405?mode=media" width="300" alt="me coding" />
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" align="right" alt="me coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminpethani&label=Profile%20views&color=0e75b6&style=flat" alt="jasminpethani" /> </p>
 
